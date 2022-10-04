@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hackerandya&show_icons=true&include_all_commits=true&theme=radical" alt="Aniket's github stats" />
 </p>
 
-[![@hackerandya's Holopin board](https://holopin.io/api/user/board?user=hackerandya)](https://holopin.io/@hackerandya)
+
